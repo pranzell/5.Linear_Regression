@@ -1,0 +1,3 @@
+8. Linear Regression Advanced
+
+This repository contains use of Linear Regression model to solve some industry problems. Each example gives us a brief about the problem statement and the data-set involved.
